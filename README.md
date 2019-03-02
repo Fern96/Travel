@@ -1,6 +1,10 @@
 # travel
 
-> A Vue.js project
+> 一个仿照去哪儿网的旅游APP
+技术栈：Vue(2.5.2)+vue-router+vuex+axios+webpack(3.6.0)+nginx
+采用nginx搭建静态资源服务器（数据为模拟数据，存放在服务器上的json文件里）
+引入了vue-awesome-swiper（2.6.7）轮播组件
+引入better-scroll插件来实现滚动场景的需求
 
 ## Build Setup
 
